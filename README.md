@@ -16,3 +16,19 @@ Built with Python and SQLite, it allows users to record species, timestamps, loc
 - SQLAlchemy
 - Flask 
 - Tableau (for visualization)
+  
+## 🐦 Sample Use Case
+Ashley logs a sighting of a Northern Cardinal in her West Virginia garden on Sept 5, 2025. 
+The logger stores the entry and later visualizes seasonal bird activity using Tableau.
+
+## 🚀 Getting Started
+1. Clone the repo  
+2. Run `logger.py` to log sightings  
+3. Use `queries.py` to explore patterns  
+4. Connect `bird_data.db` to Power BI or Tableau for dashboards
+
+## 📊 Future Enhancements
+- Add image upload for sightings
+- GPS-based location tagging
+- Weather API integration
+- Moon phase integration and logging
