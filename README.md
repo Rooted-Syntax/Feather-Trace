@@ -33,11 +33,3 @@ The logger stores the entry and later visualizes seasonal bird activity using Ta
 - Weather API integration
 - Moon phase integration and logging
 
-+------------------+       +------------------+
-|    BirdSpecies   |       |   Sightings      |
-+------------------+       +------------------+
-| id (PK)          |◄──────| species_id (FK)  |
-| common_name      |       | date_time        |
-| scientific_name  |       | location         |
-| notes            |       | notes            |
-+------------------+       +------------------+
