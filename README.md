@@ -26,6 +26,13 @@ The logger stores the entry and later visualizes seasonal bird activity using Ta
 2. Run `logger.py` to log sightings  
 3. Use `queries.py` to explore patterns  
 4. Connect `bird_data.db` to Power BI or Tableau for dashboards
+5. Feather-Trace/
+├── app.py
+├── sightings.db  ← (auto-created on first run)
+├── static/
+│   └── uploads/   ← create this manually
+└── templates/
+    └── index.html
 
 ## 📊 Future Enhancements
 - Add image upload for sightings
