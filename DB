@@ -1,0 +1,7 @@
+CREATE TABLE sightings (
+    id INTEGER PRIMARY KEY,
+    species TEXT,
+    location TEXT,
+    date TEXT,
+    image_path TEXT
+);
