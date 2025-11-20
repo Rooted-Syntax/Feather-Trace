@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541908194934",
+    "project_id": "feather-tracker",
+    "storage_bucket": "feather-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541908194934:android:cefe1e67f883727892f157",
+        "android_client_info": {
+          "package_name": "com.example.feathertrace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALiPOr3ZxGmnzRPyLesePhs4dsoNS6oak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
